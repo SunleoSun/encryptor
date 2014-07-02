@@ -1,0 +1,8 @@
+D:\Anton\Мои программы\Shiphrator\Shiphrator\obj\Debug\ResolveAssemblyReference.cache
+D:\Anton\Мои программы\Shiphrator\Shiphrator\obj\Debug\Shiphrator.Form1.resources
+D:\Anton\Мои программы\Shiphrator\Shiphrator\obj\Debug\Shiphrator.Properties.Resources.resources
+D:\Anton\Мои программы\Shiphrator\Shiphrator\obj\Debug\Shiphrator.csproj.GenerateResource.Cache
+D:\Anton\Мои программы\Shiphrator\Shiphrator\bin\Debug\Shiphrator.exe
+D:\Anton\Мои программы\Shiphrator\Shiphrator\bin\Debug\Shiphrator.pdb
+D:\Anton\Мои программы\Shiphrator\Shiphrator\obj\Debug\Shiphrator.exe
+D:\Anton\Мои программы\Shiphrator\Shiphrator\obj\Debug\Shiphrator.pdb
